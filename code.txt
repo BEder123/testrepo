@@ -1,10 +1,5 @@
 some other qrwhnfrgwhqb b that mean things
-<<<<<<< HEAD
 something wity
-=======
-
-
->>>>>>> 9cd65a3a865aab2c02ab1ed995d7bdda40cf7aad
 wsrgh 
 
 
