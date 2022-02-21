@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 some other qrwhnfrgwhdgtrkaqwqkqtyqb b that mean things
 something wity
+=======
+
+>>>>>>> branchDemo
 wsrgh 
 
 
